@@ -1,13 +1,13 @@
 {
   "Ads": [{
     "konten_online":false,
-    "timer_switch_ads":"8000",
+    "timer_switch_ads":"1000",
     "interval_native":3,
     "interval":0,
-    "admob_inter": "ca-app-pub-2771753828687041/2720212271",
-    "admob_nativ": "ca-app-pub-2771753828687041/6378324052",
-    "admob_banner": "ca-app-pub-2771753828687041/2584480908",
-    "admob_openads": "ca-app-pub-2771753828687041/6645096520",
+    "admob_inter": "",
+    "admob_nativ": "",
+    "admob_banner": "",
+    "admob_openads": "",
     "max_interst": "a3ca5f3c6ef23643",
     "max_nativ": "1ed31961022690a4",
     "max_banner": "5b25284e08d113db",
